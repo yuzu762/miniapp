@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/asuna/sniff/main.c
+stdio.h
+-
+signal.h
+-
+stdlib.h
+-
+string.h
+-
+netinet/ip.h
+-
+sys/socket.h
+-
+sys/select.h
+-
+fcntl.h
+-
+sys/types.h
+-
+sys/time.h
+-
+errno.h
+-
+unistd.h
+-
+sniffer.h
+/home/asuna/sniff/sniffer.h
+tools.h
+/home/asuna/sniff/tools.h
+
+/home/asuna/sniff/sniffer.h
+
+/home/asuna/sniff/tools.h
+stdio.h
+-
+
