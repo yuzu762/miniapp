@@ -1,0 +1,4 @@
+/home/asuna/chat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asuna/chat/cmake-build-debug/CMakeFiles/client.dir
+/home/asuna/chat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/asuna/chat/cmake-build-debug/CMakeFiles/server.dir
